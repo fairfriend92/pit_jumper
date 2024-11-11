@@ -177,6 +177,11 @@ public class PauseMenu : MonoBehaviour {
                         loadSuccess = true;                  
                     }
                 }
+
+                if (exitWord != null && exitWord.selected)
+                {
+                    Application.Quit();
+                }
             }
 
             // Make the pause symbol flash
