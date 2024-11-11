@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pit
+  - Obstacle
+  - Amulet
+  - End level
+  - Swarm
+  - Jump Target
+  - Trap
+  - GUI
+  - Crate Obstacle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Pit
+  - 
+  - Obstacle
+  - 
+  - Collectable
+  - 
+  - Swarm
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1437015533
+    locked: 0
+  - name: Player
+    uniqueID: 1489165463
+    locked: 0
+  - name: Background - Obstacles
+    uniqueID: 4245894613
+    locked: 0
+  - name: Ceiling
+    uniqueID: 998234393
+    locked: 0
+  - name: Jump Target
+    uniqueID: 401542077
+    locked: 0
+  - name: Swarm
+    uniqueID: 1105449807
+    locked: 0
+  - name: GUI
+    uniqueID: 521594335
+    locked: 0
